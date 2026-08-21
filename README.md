@@ -1,1 +1,1 @@
-# Automonous-Multi-Sensor-Human-Tracking-System
+# Autonomous Multi-Sensor Human Tracking System
